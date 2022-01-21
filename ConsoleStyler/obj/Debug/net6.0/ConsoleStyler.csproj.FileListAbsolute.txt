@@ -1,0 +1,12 @@
+C:\Users\Rebecca\Desktop\ConsoleStyler\ConsoleStyler\bin\Debug\net6.0\ConsoleStyler.deps.json
+C:\Users\Rebecca\Desktop\ConsoleStyler\ConsoleStyler\bin\Debug\net6.0\ConsoleStyler.dll
+C:\Users\Rebecca\Desktop\ConsoleStyler\ConsoleStyler\bin\Debug\net6.0\ref\ConsoleStyler.dll
+C:\Users\Rebecca\Desktop\ConsoleStyler\ConsoleStyler\bin\Debug\net6.0\ConsoleStyler.pdb
+C:\Users\Rebecca\Desktop\ConsoleStyler\ConsoleStyler\obj\Debug\net6.0\ConsoleStyler.csproj.AssemblyReference.cache
+C:\Users\Rebecca\Desktop\ConsoleStyler\ConsoleStyler\obj\Debug\net6.0\ConsoleStyler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca\Desktop\ConsoleStyler\ConsoleStyler\obj\Debug\net6.0\ConsoleStyler.AssemblyInfoInputs.cache
+C:\Users\Rebecca\Desktop\ConsoleStyler\ConsoleStyler\obj\Debug\net6.0\ConsoleStyler.AssemblyInfo.cs
+C:\Users\Rebecca\Desktop\ConsoleStyler\ConsoleStyler\obj\Debug\net6.0\ConsoleStyler.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\Desktop\ConsoleStyler\ConsoleStyler\obj\Debug\net6.0\ConsoleStyler.dll
+C:\Users\Rebecca\Desktop\ConsoleStyler\ConsoleStyler\obj\Debug\net6.0\ref\ConsoleStyler.dll
+C:\Users\Rebecca\Desktop\ConsoleStyler\ConsoleStyler\obj\Debug\net6.0\ConsoleStyler.pdb
