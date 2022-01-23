@@ -10,14 +10,14 @@ A simple way to put some color and other personalizations to your very own C# co
 - Change text color
 - Edit title
 - Generate a simple header
-## Installation
 
-To install ConsoleStyler, run the following command in the [Package Manager Console](https://docs.microsoft.com/en-us/ef/core/cli/powershell) 
 
 ```
 Install-Package ConsoleStyler
 ```    
 ## Usage/Examples
+
+Use this package at the top of your console app code! ☝️
 
 ```c#
 using ConsoleStyler;
