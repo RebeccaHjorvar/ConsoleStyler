@@ -14,15 +14,15 @@ A simple way to put some color and other personalizations to your very own C# co
 
 ## Installation
 
-### Package Manager
+##### Package Manager
 ```
 PM> Install-Package ConsoleStyler
 ```    
-### .Net CLI
+##### .Net CLI
 ```
 > dotnet add package ConsoleStyler
 ```   
-### PackageReference
+##### PackageReference
 ```
 <PackageReference Include="ConsoleStyler" />
 ```
