@@ -12,9 +12,20 @@ A simple way to put some color and other personalizations to your very own C# co
 - Generate a simple header
 
 
+## Installation
+
+### Package Manager
 ```
-Install-Package ConsoleStyler
+PM> Install-Package ConsoleStyler
 ```    
+### .Net CLI
+```
+> dotnet add package ConsoleStyler
+```   
+### PackageReference
+```
+<PackageReference Include="ConsoleStyler" />
+```
 ## Usage/Examples
 
 Use this package at the top of your console app code! ☝️
@@ -42,8 +53,6 @@ Styler.Header("Welcome to my Console App!");
 ## Contributing
 
 Contributions are always welcome!
-
-
 
 
 ## License
